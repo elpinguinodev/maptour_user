@@ -93,7 +93,12 @@ APPCFG = {
 		p: {
 			iconPath: 'resources/markers/purple/IconPurple',
 			cssClass: 'number-purple'
+		},
+		o: {
+			iconPath: 'resources/markers/orange/number_',
+			cssClass: 'number-orange'
 		}
+
 	},
 	// Default color
 	PIN_DEFAULT_CFG: 'r',
