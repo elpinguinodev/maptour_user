@@ -8,11 +8,11 @@ APPCFG = {
 	EMBED: false,
 
 	// Header Logo
-	HEADER_LOGO_URL: "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
-	HEADER_LOGO_TARGET: "https://www.paypal.com/nz/cgi-bin/webscr?cmd=_flow&SESSION=e2eYFgKCTFw5A_zeyTxg8AvyNeKPcgAXm4fQd46x3NWFbsX_YaYBXYp3UO0&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542",
+	HEADER_LOGO_URL: "Want to see this map converted into an app?",
+	HEADER_LOGO_TARGET: "",
 	// Header top right link
-	HEADER_LINK_TEXT: "",
-	HEADER_LINK_URL: "",
+	HEADER_LINK_TEXT: <i>"Found a new mural?"</i>,
+	HEADER_LINK_URL: "http://elpinguinodev.maps.arcgis.com/apps/GeoForm/index.html?appid=87bad8e1f18b46b692b5a7035e9977bd",
 	// Control display of Facebook and Twitter links
 	HEADER_SOCIAL: {
 		facebook: true,
