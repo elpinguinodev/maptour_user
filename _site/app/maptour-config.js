@@ -58,7 +58,7 @@ APPCFG = {
 
 	// Maximum number of points in the tour
 	// If not using the USE_STATIC_ICON option, markers have to be numbered from 1 to that value
-	MAX_ALLOWED_POINTS: 125,
+	MAX_ALLOWED_POINTS: 150,
 
 	//
 	// MAP MARKERS
@@ -97,6 +97,10 @@ APPCFG = {
 		o: {
 			iconPath: 'resources/markers/orange/number_',
 			cssClass: 'number-orange'
+		},
+		y: {
+			iconPath: 'resources/markers/orange/number_',
+			cssClass: 'number-yellow'
 		}
 
 	},
