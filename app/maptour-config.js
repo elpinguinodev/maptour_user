@@ -99,7 +99,7 @@ APPCFG = {
 			cssClass: 'number-orange'
 		},
 		y: {
-			iconPath: 'resources/markers/orange/number_',
+			iconPath: 'resources/markers/yellow/number_',
 			cssClass: 'number-yellow'
 		},
 
