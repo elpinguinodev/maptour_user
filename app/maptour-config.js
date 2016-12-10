@@ -101,7 +101,7 @@ APPCFG = {
 		y: {
 			iconPath: 'resources/markers/orange/number_',
 			cssClass: 'number-yellow'
-		}
+		},
 
 	},
 	// Default color
