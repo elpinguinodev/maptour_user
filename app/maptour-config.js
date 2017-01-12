@@ -78,20 +78,20 @@ APPCFG = {
 	// Ordered list of pin configuration (has to be lower case)
 	PIN_CFG: {
 		r: {
-			iconPath: 'resources/markers/red/NumberIconr',
+			iconPath: 'resources/markers/red/number_',
 			// A css class that define the color to be used for the Desktop carousel and builder organize popup
 			cssClass: 'number-red'
 		},
 		b: {
-			iconPath: 'resources/markers/blue/NumberIconb',
+			iconPath: 'resources/markers/blue/number_',
 			cssClass: 'number-blue'
 		},
 		g: {
-			iconPath: 'resources/markers/green/NumberIcong',
+			iconPath: 'resources/markers/green/number_',
 			cssClass: 'number-green'
 		},
 		p: {
-			iconPath: 'resources/markers/purple/IconPurple',
+			iconPath: 'resources/markers/purple/number_',
 			cssClass: 'number-purple'
 		},
 		o: {
