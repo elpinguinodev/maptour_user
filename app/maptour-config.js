@@ -8,8 +8,8 @@ APPCFG = {
 	EMBED: false,
 
 	// Header Logo
-	HEADER_LOGO_URL: "",
-	HEADER_LOGO_TARGET: "",
+	HEADER_LOGO_URL: "https://github.com/elpinguinodev/maptour_user/blob/master/resources/icons/WatchThisSpaceLogoContest_splash.png",
+	HEADER_LOGO_TARGET: "https://form.jotform.co/watchthisspacechch/logocontest",
 	// Header top right link
 	HEADER_LINK_TEXT: "Submit new info",
 	HEADER_LINK_URL: "http://elpinguinodev.maps.arcgis.com/apps/GeoForm/index.html?appid=87bad8e1f18b46b692b5a7035e9977bd",
